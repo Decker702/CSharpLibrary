@@ -1,0 +1,37 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace _0._06_Methods
+{
+    class Customer
+    {
+
+        // Order in writing us 1) FIELDS, 2) Properties, then 3) Methods
+        //PROPERTIES
+        //following are properties, and they are inside of classes
+        public int CustomerID { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public string Email { get; set; }
+        public bool AppearsWealthy { get; set; }
+        public decimal BankRoll { get; set; }
+
+        //camel case - use it for variables
+        //string firstName
+
+        //Pascal Casing - use for properties
+        //public string FullName { get; set; }
+
+        //METHODS - have active verbs ie. Writeline
+        //public allows you to use it in another class
+        public void PrintCustomerName()
+        {
+            Console.WriteLine("Hello, {0} {1}", FirstName, LastName);
+        }
+
+
+    }
+}
