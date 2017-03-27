@@ -1,0 +1,12 @@
+﻿body {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Comic Sans MS';
+    background-color: rgb(239, 178, 178);
+}
+
+#main-header {
+    height: 80px;
+}
+

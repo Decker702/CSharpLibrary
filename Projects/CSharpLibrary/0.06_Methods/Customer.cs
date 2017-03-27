@@ -31,7 +31,18 @@ namespace _0._06_Methods
         {
             Console.WriteLine("Hello, {0} {1}", FirstName, LastName);
         }
+        public void AssessWealth()
+        {
+            if (AppearsWealthy)
+            {
+                Console.WriteLine("He looks loaded.");
+            }
+            else
+            {
+                Console.WriteLine("Did you see that car?");
 
+            }
+        }
 
     }
 }

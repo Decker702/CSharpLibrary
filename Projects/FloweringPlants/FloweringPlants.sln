@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StoreApp", "StoreApp", "{D5101E33-B83D-4C42-9EB0-D9F4421506C4}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+		main.css = main.css
+		..\..\..\..\Desktop\img\Sunflowers.jpeg = ..\..\..\..\Desktop\img\Sunflowers.jpeg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{C1806111-3B09-4E6E-ACA2-7AE2CFA242C9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Desktop\img\Asters.jpeg = ..\..\..\..\Desktop\img\Asters.jpeg
+		..\..\..\..\Desktop\img\Coleus.jpg = ..\..\..\..\Desktop\img\Coleus.jpg
+		..\..\..\..\Desktop\img\Crocus.jpeg = ..\..\..\..\Desktop\img\Crocus.jpeg
+		..\..\..\..\Desktop\img\Daisies.jpeg = ..\..\..\..\Desktop\img\Daisies.jpeg
+		..\..\..\..\Desktop\img\Lily.jpeg = ..\..\..\..\Desktop\img\Lily.jpeg
+		..\..\..\..\Desktop\img\Rose.jpeg = ..\..\..\..\Desktop\img\Rose.jpeg
+		..\..\..\..\Desktop\img\Sunflowers.jpeg = ..\..\..\..\Desktop\img\Sunflowers.jpeg
+		..\..\..\..\Desktop\img\Tulip2.jpeg = ..\..\..\..\Desktop\img\Tulip2.jpeg
+		..\..\..\..\Desktop\img\Tulips.jpeg = ..\..\..\..\Desktop\img\Tulips.jpeg
+		..\..\..\..\Desktop\img\walllpaper.jpeg = ..\..\..\..\Desktop\img\walllpaper.jpeg
+		..\..\..\..\Desktop\img\wallpaper2.jpeg = ..\..\..\..\Desktop\img\wallpaper2.jpeg
+		..\..\..\..\Desktop\img\wallpaper4.jpeg = ..\..\..\..\Desktop\img\wallpaper4.jpeg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1806111-3B09-4E6E-ACA2-7AE2CFA242C9} = {D5101E33-B83D-4C42-9EB0-D9F4421506C4}
+	EndGlobalSection
+EndGlobal

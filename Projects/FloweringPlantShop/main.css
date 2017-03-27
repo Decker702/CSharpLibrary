@@ -1,0 +1,18 @@
+body {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Comic Sans MS';
+}
+
+#main-header {
+    height: 80px;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 10px;
+    float: left;
+}
