@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,17 +12,22 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Data Types");
+
+            //below declares and initializes (one step process)
             string name = "Kenn";
+
+            //below declares the variable (two step process)
             string teacher;
-            //above declares the variable
-            //below initials the variable
-            //in quotes represents a string, a number in quotes is a string "234", not number
+            //below initializes the variable
+            //in quotes represents a string, a number in quotes is a string "234", not usable number
             teacher = "Paul";
+
             Console.WriteLine(name);
             Console.WriteLine(teacher);
+            //Use the following to get the console to pop up.
             Console.ReadLine();
-
-
+    /*
+            //Value types
             int i = 0;        // implicit conversion, too, a.k.a. Int32
             short sh = 32767; // 2^16, or 32768, or +/- 0-32767, a.k.a. Int16
             byte by = 255;    // 2^8, or 256, or +/- 0-255, a.k.a. Byte
@@ -31,16 +37,14 @@ namespace ConsoleApp1
             var s3 = "a \tree";
             bool b = false; // 1 = true, 0 = false, a.k.a. Boolean
             long l = 7; // long int, 64-bit, a.k.a. Int64
-            decimal p; // 128-bit precision decimal, very expensive, a.k.a. Decimal
+            decimal p; // 128-bit precision decimal, very expensive on memory, a.k.a. Decimal
             double d = 7.80; // 64-bit decimal, a.k.a. Double
             float f = 10.8f; // floating point integer, must put f *explicit* conversion afterwards
                              //if using a constant, or you could cast as (float)
             decimal dd = 7.80m; // must add the m if using a constant, or you could cast as (decimal)
             int? ni = null; // nullable variables, use .HasValue to determine if they are populated, 
             //useful with web services, database results 
-
-
-
+    */
         }
     }
 }

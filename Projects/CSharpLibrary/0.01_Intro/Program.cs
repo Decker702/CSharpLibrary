@@ -6,7 +6,7 @@ namespace _0._01_Intro
     {
         static void Main(string[] args)
         {
-           Console.Write("Hello World");
+           Console.WriteLine("Hello World");
            Console.ReadLine();
 
         }

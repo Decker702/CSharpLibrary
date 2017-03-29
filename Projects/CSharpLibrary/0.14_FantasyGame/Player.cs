@@ -15,7 +15,6 @@ namespace _0._14_FantasyGame
         HorseMange = 3,
         TaxMan = 4,
         Human = 5,
-
     }
     //classes are templates or blue prints.
     class Player
@@ -24,11 +23,11 @@ namespace _0._14_FantasyGame
         public string Clan { get; set; }
         public int CurrentPower { get; set; }
         public CharacterType Type { get; set; } 
-            //instead of typing in type name, you can assign number & they select number.
+        //instead of typing in type name, you can assign number & they select number.
         //the following is an object of the player class, calling the constructor
 
         public Player(string name, string clanName, CharacterType type = CharacterType.HorseMange)
-            //if they don't select a type it defaults to HorseMange
+        //if they don't select a type it defaults to HorseMange
         {
             this.PlayerName = name;
             this.Clan = clanName;
@@ -50,7 +49,6 @@ namespace _0._14_FantasyGame
                 case 3:
                     Console.WriteLine("You are a Horse Mange");
                     return this.Type = CharacterType.HorseMange;
-
                 case 4:
                     Console.WriteLine("You are a Tax Man");
                     return this.Type = CharacterType.TaxMan;
@@ -60,6 +58,7 @@ namespace _0._14_FantasyGame
                     return this.Type = CharacterType.Human;
 
                 default:
+                    Console.WriteLine("You didn't make a selection, you are Horse Mange.");
                     return this.Type = CharacterType.HorseMange;
             }
         }

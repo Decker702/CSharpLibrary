@@ -14,45 +14,50 @@ namespace ConsoleApp2
                 Create a list of value types. (int, string, bool, float, double, decimal)
                 Create two examples for each type. One is a declaration only.
                 The other is a declaration with initializer.
-                Print a view of the values in the console.
+                Print a view of the values in the console
+            */
+        /*
+            //Declare only
+            int number;
+            string name;
+            bool isValid;
+            float number;
+            double number;
+            decimal number;
+        */
+            //Declare & Initialize
+            int num = 87;
+            string dog = "Neko";
+            bool isValid = true;
+            float f = 8.6f;
+            double d = 67.76;
+            decimal dd = 9.99m;
 
-            SILVER CHALLENGE:
-                Use those types to concatenate a string.Any string will do.
+            Console.WriteLine(num);
+            Console.WriteLine(dog);
+            Console.WriteLine(isValid);
+            Console.WriteLine(f);
+            Console.WriteLine(d);
+            Console.WriteLine(dd);
 
+          //  Console.ReadLine();
 
-           GOLD CHALLENGE:
-              Declare the year you were born as a string.
-                Convert that variable from a string to an integer and print it with a message in the
-                  console.
-                For instance, "I was born in 1976." */
+            /*SILVER CHALLENGE:
+                 Use those types to concatenate a string.Any string will do.
+            */
+            Console.WriteLine("My dog " + dog + " is " + num + " years old.");
+            // Console.ReadLine();
+            /*
+                       GOLD CHALLENGE:
+                          Declare the year you were born as a string.
+                            Convert that variable from a string to an integer and print it with a message in the
+                              console.
+                            For instance, "I was born in 1976." */
 
-            //Bronze
-            int luckyNumber;
-            int number = 345;
-
-            string Post;
-            string name = "Paul";
-
-            bool isMarried;
-            bool answer = true;
-
-            float amountOfSnow;
-            float temperature = 234.4f;
-
-            double lattitude;
-            double oneThird = 3.333;
-
-            decimal StudentLoanAmount;
-            decimal around = 234.45; //more expensive than a doiuble
-
-            Console.WriteLine(temperature);
-            Console.WriteLine(oneThird);
-
-
-
-
-
-
+            string year = "1776";
+            int.Parse(year);
+            Console.WriteLine("America was born in " + year + ".");
+            Console.ReadLine();
 
 
 

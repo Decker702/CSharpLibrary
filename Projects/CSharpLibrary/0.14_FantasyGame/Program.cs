@@ -12,10 +12,8 @@ namespace _0._14_FantasyGame
         static void Main(string[] args)
         {
             //adding the speech synthesizer, an assembly reference
-           // SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
-            //talkingConsole.Speak("What is your name?");
-
-
+           SpeechSynthesizer talkingConsole = new SpeechSynthesizer();
+           talkingConsole.Speak("What is your name?");
 
             //Hard code -- Player player = new Player("JSWizard", "FreshNeverFades");
             //Below allows player to identify themself
@@ -35,20 +33,11 @@ namespace _0._14_FantasyGame
             Player player = new Player(name, clan);
             player.ChooseType(playerType);
 
-
-            // Below were used with the hard coded Player
-            //Console.WriteLine("What is your name?");
-            //string name = Console.ReadLine();
-
-           // Console.WriteLine(player.CurrentPower);
-            //player.PowerLevelCheck();
-
             Console.WriteLine(player.ToString());
             LizardDog lizardDog = new LizardDog();
 
             //This While loop will run until reaches a case where told to stop
             //Like what is done in a switch statement
-               
             while (true)
             {
                 lizardDog.Insult();
@@ -72,7 +61,6 @@ namespace _0._14_FantasyGame
 
             Console.WriteLine(player.CurrentPower);
             lizardDog.LizardAttack(player);
-            //Console.WriteLine("This is a new attack");
             Console.WriteLine(player.CurrentPower);
             Console.WriteLine("This is a new attack");
             lizardDog.LizardAttack(player);
@@ -83,7 +71,6 @@ namespace _0._14_FantasyGame
            //Has a constructor and one method
 
             Console.ReadLine();
-
         }
     }
 }

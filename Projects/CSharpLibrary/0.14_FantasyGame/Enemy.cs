@@ -21,13 +21,10 @@ namespace _0._14_FantasyGame
         public int PowerLevel { get; set; }
 
         //create an insult method with a few insults and can be over ridden.
+        //virtual in the parent allow it to be overridden by the child
         public virtual void Insult()
         {
           
-            ArrayList insult = new ArrayList { "buck-o", "wimp", "window licker", "noob", "nerd cakes", "buster" };
-            // to add to an ArrayList use -  insult.Add ("four-eyes");
-            //Arrays can not expand in size, an array list can.  Dynamically add things.  Depends on memory, which to use.
-            Random rnd = new Random();
             int r = rnd.Next(insult.Count);
 
             Console.WriteLine("You are on the wrong side of the forest {0}", insult[r]);
@@ -61,8 +58,7 @@ namespace _0._14_FantasyGame
             //This attack method goes to Program to LizardDog.Attack(player);
          //   Console.WriteLine("{0} power is at {1}%", player.PlayerName, player.CurrentPower);
             // player's power decreases during attacks, need assigh & track it
-           //player.CurrentPower -= attackVal; //player.Current = player.CurrentPower -= attackVal
-                
+           //player.CurrentPower -= attackVal; //player.Current = player.CurrentPower -= attackVal    
         }
     }
     
