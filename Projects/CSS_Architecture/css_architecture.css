@@ -1,0 +1,41 @@
+body{
+	font-family: "Verdana";
+	background-color: lightcoral;
+	color: red;
+}
+div{
+	background-color:aqua;
+	margin: auto;
+	width: 50%;
+}
+h1 {
+	color: forestgreen;
+	font-weight: 700;
+	text-align: center:
+}
+ul{
+	list-style: none;
+	color: gold;
+	font-size: 18px;
+}
+.main {
+	background-color: gray;
+	width: 100%;
+}
+.main > ul{
+	list-style: square;
+}
+#funThings{
+	background-color: blue;
+	width: 75%;
+	margin: auto;
+}
+#funThingsTitle {
+	font-size: 36px;
+}
+#funThings > ul {
+	font-family: 'Comic Sans MS';
+}
+#funThings > li{
+	font-weight:70
+}
