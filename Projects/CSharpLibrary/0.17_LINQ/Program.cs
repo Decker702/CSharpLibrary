@@ -28,25 +28,29 @@ namespace _0._17_LINQ//Language Integrated
                        select car;
             foreach (var bmw in bmws)
             {
-                Console.WriteLine("The {0} {1} is a nice used care that costs: {2:C}", bmw.Year, bmw.Model, bmw.Price);
+                Console.WriteLine("The {0} {1} is a nice used care that costs: {2:C}", 
+                    bmw.Year, 
+                    bmw.Model, 
+                    bmw.Price);
             }
 
             Console.WriteLine("=================");
             Console.WriteLine("");
             Console.WriteLine("LINQ for cars under $10,000");
-   //good to this point, but won't print what is below.  Slack in in ClassCode, 3/30/17 11:51 am LINQ
+            //good to this point, but won't print what is below.  Slack in in ClassCode, 3/30/17 11:51 am LINQ
             var cheapCars = from car in usedCars
-                            where car.Price < 1000
+                            where car.Price <= 1000 
                             select car;
+
             foreach (var cheapCar in cheapCars)
             {
-                Console.WriteLine("The {0} {1} is a nice car that costs {2:C}",
+                Console.WriteLine("The {0} {1} is a nice inexpensive car that costs {2:C}",
                     cheapCar.Year,
                     cheapCar.Model,
                     cheapCar.Price);
             }
 
-
+            Console.ReadLine();
 
             /*   
 
