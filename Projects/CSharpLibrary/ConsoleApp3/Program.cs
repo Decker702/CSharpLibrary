@@ -31,20 +31,7 @@ namespace ConsoleApp3
             //String Interpolation
             Console.WriteLine("{0:C}",100.736);
 
-
-
-            /*  Bronze Challenge:
-             *  Try to show how to concatenate multiple strings, 
-             *  use composite formating, 
-             *  show how to use escapes, 
-             *  and how to manipulate numbers(eg, dollars &commas).*/
-
-           
-
-
             Console.ReadLine();
-
-
         }
     }
 }

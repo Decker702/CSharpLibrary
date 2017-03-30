@@ -22,9 +22,9 @@ namespace MathFacts
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("You can select a starting number and an ending number between 1 - 10.");
             Console.WriteLine("Then you will see the numbers between your selections be added");
-            Console.WriteLine("to numbers 1 - 10");
-            Console.WriteLine("");
-            Console.WriteLine("Select a starting number between 1 and 10");
+            Console.WriteLine("to numbers 1 - 1
+            Console.WriteLine("Select a starting 0");
+            Console.WriteLine("");number between 1 and 10");
         }
 
         public void AdditionTable(int startNum, int endNum)

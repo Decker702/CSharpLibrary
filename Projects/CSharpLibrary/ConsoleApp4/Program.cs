@@ -12,27 +12,21 @@ namespace ConsoleApp4
         {
             bool isOn = true;
             bool isHot = false;
-   
+
             if (isOn)
             {
-        /*        Comparison Operators
+                Console.WriteLine("The light is on.  It is bright.");
+               
+            }
 
-            == isEqual to
-            >= GreaterThan or Equal to
-            <= LessThan or Equal to
-            != NotEqual
-            > GreaterThan
-            < Lessthan
-            !Not
-            && And
-            || Or
-            */
-            
-     Console.WriteLine("The light is on.");
-                // Create isAdmin bool, write if statement that says
-                // if user is a admin write "Welcome to the site Admin:
+            Console.ReadLine();
 
-                bool isAdmin = true;
+
+
+            // Create isAdmin bool, write if statement that says
+            // if user is a admin write "Welcome to the site Admin:
+
+            /*    bool isAdmin = true;
                 bool isLoggedIn = true;
 
                 if (isAdmin)
@@ -40,8 +34,22 @@ namespace ConsoleApp4
                     Console.WriteLine("Welcome to the site Admin.");
                 }
 
-            }
-            Console.ReadLine();
+            }*/
+
+
+
+            /*        Comparison Operators
+
+           == isEqual to
+           >= GreaterThan or Equal to
+           <= LessThan or Equal to
+           != NotEqual
+           > GreaterThan
+           < Lessthan
+           !Not
+           && And
+           || Or
+           */
 
         }
     }

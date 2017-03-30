@@ -8,15 +8,14 @@ namespace MathFacts
 {
     class Program
     {
-        static void Main(string[] args)
-        //with static you don't need an instance to use a method
+        static void Main(string[] args) //with static you don't need an instance to use a method
 
         {
             Console.Title = "Math Facts App";
             int choice = 0;
             Addition addTable = new Addition();
             Multiplication timesTable = new Multiplication();
-            do
+            do //Do While Loop for the whole program
             {
                 MainAppTitle();
                 choice = MainMenu();
@@ -25,10 +24,10 @@ namespace MathFacts
                     bool continueChoice = true;
                     int startNum = 0;
                     int endNum = 0;
-                    do
+                    do //Do While Loop for the Addition Class
                     {
                         addTable.AdditionTitle();
-                        try
+                        try //Try Catch for starting menu
                         {
                             Console.WriteLine("Enter your starting number");
                             startNum = Int32.Parse(Console.ReadLine());
@@ -84,7 +83,7 @@ namespace MathFacts
                     bool continueChoice = true;
                     int startNum = 0;
                     int endNum = 0;
-                    do
+                    do //Do While Loop for the Multiplication Class
                     {
                         timesTable.MultiplicationTitle();
                         try
@@ -157,7 +156,7 @@ namespace MathFacts
 
         private static void MainAppTitle()
         {
-            Console.Clear();
+            Console.Clear(); //Clears screen between selections
             string appTitle = @"
 
  _ _ _                 _____                 __        
@@ -173,15 +172,7 @@ namespace MathFacts
     }
 }
 /*
-static void Main(string[] args)
 
-{
-    Console.Clear(); //clears screen between selections
-    //Change the state of the applications.
-    // Initial state - menu, then 3 items are other states(choices)
-    //First - Build a title
-    Console.Title = "Math Facts App";
-    int choice = 0;
     Addition addTable = new Addition();
     //Do While Loop
     do

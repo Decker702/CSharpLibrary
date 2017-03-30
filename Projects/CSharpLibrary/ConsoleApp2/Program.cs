@@ -43,27 +43,20 @@ namespace ConsoleApp2
           //  Console.ReadLine();
 
             /*SILVER CHALLENGE:
-                 Use those types to concatenate a string.Any string will do.
+              Use those types to concatenate a string.Any string will do.
             */
             Console.WriteLine("My dog " + dog + " is " + num + " years old.");
             // Console.ReadLine();
-            /*
-                       GOLD CHALLENGE:
-                          Declare the year you were born as a string.
-                            Convert that variable from a string to an integer and print it with a message in the
-                              console.
-                            For instance, "I was born in 1976." */
+
+            /* GOLD CHALLENGE:
+               Declare the year you were born as a string.
+               Convert that variable from a string to an integer and print it with a message in the console.
+               For instance, "I was born in 1976." */
 
             string year = "1776";
             int.Parse(year);
             Console.WriteLine("America was born in " + year + ".");
             Console.ReadLine();
-
-
-
-
-
-
         }
     }
 }
