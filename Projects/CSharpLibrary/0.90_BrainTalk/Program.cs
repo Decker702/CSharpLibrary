@@ -4,22 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace _0._90_BrainTalk
 {
-    class Program
-    {
-        static void Main(string[] args)
-        {
-        }
-    }
-}
-/*
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-{
+
     class Brain
 {
     public static void Counting()
@@ -40,4 +27,3 @@ using System.Threading.Tasks;
 
         }
     }
-    */
