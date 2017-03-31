@@ -43,30 +43,58 @@ namespace _0._03_Strings_Challenge
             */
 
             //TODO - Complete Strings_Challenges
-            //Manipulate numbers
-
-                       
+            //Manipulate numbers 
+            /*
+            decimal dec = 235.00M;
+            string money = dec.ToString("C");
+            Console.WriteLine(money);
+            Console.ReadLine();
+            */
 
 
             /* Silver Challenge:
                     Create a note to a potential employer that states your goals as a developer.
                     Include the date in the string that is converted to a short date string.
+                    */
 
-            Dear Ms. Jones,
-            Today is 3/29/2017.  I enjoy the class and learning C#.
-            When I complete the course, I would like to get a job as a developer.
-            Thank you,
-            L. Decker
-            */
+            //TODO: this is the right place, just need the right order.
+            var date = date.ToShortDateString();
+           // DateTime date = DateTime.Now;
+            //Instance.ToShortDateString()
+
+            var shortDate = date.ToString("MM-dd-yyyy");
+            Console.WriteLine(date);
 
 
-            /* Gold Challenge:
-                    Create 2 strings: Your user name in lowercase, and in uppercase,
-                    Write code that compares the two strings and prints whether or not they are equal.
-                    Print one sentence that says they are equal.
-                    Print a second sentence that says they are not equal.
-             */
 
-        }
+
+
+            Console.ReadLine();
+
+            
+
+
+
+        /*  Dear Ms. Jones,
+          Today is 3/29/2017.  I enjoy the class and learning C#.
+          When I complete the course, I would like to get a job as a developer.
+          Thank you,
+          L. Decker
+          */
+
+
+        /* Gold Challenge:
+                Create 2 strings: Your user name in lowercase, and in uppercase,
+                Write code that compares the two strings and prints whether or not they are equal.
+                Print one sentence that says they are equal.
+                Print a second sentence that says they are not equal.
+
+        Dim myString As String = "Alphabetical"
+Dim secondString As String = "Order"
+Dim result As Integer
+result = String.Compare (myString, secondString)
+         */
+
+    }
     }
 }

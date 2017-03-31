@@ -62,10 +62,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		0.50_CSS-Architecture.html = 0.50_CSS-Architecture.html
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.092_BrainTalk", "ConsoleApp6\0.092_BrainTalk.csproj", "{4CA5AAAA-14BC-49C4-8697-7C10E99CEA24}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.90_BrainTalk", "0.90_BrainTalk\0.90_BrainTalk.csproj", "{70F36E4F-1A50-4CC3-A9E0-2577085DD5B9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -180,14 +176,6 @@ Global
 		{5E048AA7-9AD6-4284-8EA0-FDC628169D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E048AA7-9AD6-4284-8EA0-FDC628169D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E048AA7-9AD6-4284-8EA0-FDC628169D80}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4CA5AAAA-14BC-49C4-8697-7C10E99CEA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4CA5AAAA-14BC-49C4-8697-7C10E99CEA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4CA5AAAA-14BC-49C4-8697-7C10E99CEA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4CA5AAAA-14BC-49C4-8697-7C10E99CEA24}.Release|Any CPU.Build.0 = Release|Any CPU
-		{70F36E4F-1A50-4CC3-A9E0-2577085DD5B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{70F36E4F-1A50-4CC3-A9E0-2577085DD5B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{70F36E4F-1A50-4CC3-A9E0-2577085DD5B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{70F36E4F-1A50-4CC3-A9E0-2577085DD5B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
