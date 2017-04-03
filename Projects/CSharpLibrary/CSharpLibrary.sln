@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_FantasyGame", "0.14_Fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods_Challenge", "0.06_Methods_Challenge\0.06_Methods_Challenge.csproj", "{EEF5A307-E32E-441F-AFF8-D6E4A79B570E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_Methods_Overloading", "0.08_Methods_Overloading\0.08_Methods_Overloading.csproj", "{9EA9A01E-B13D-4CB9-9953-5649022A37B0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.06_Methods_Overloading", "0.08_Methods_Overloading\0.06_Methods_Overloading.csproj", "{9EA9A01E-B13D-4CB9-9953-5649022A37B0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors", "0.09)Constructors\0.09_Constructors.csproj", "{9ED86059-169A-471F-A949-06792AC75AAB}"
 EndProject
@@ -53,7 +53,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Conditionals_if_else",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Operators_Basic", "0.04_Operators_Basic\0.04_Operators_Basic.csproj", "{C580EB19-5936-4D95-885F-1713E0D6FA76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.04_Objects_Assembly_References", "0.04_Objects_Assembly_References\0.04_Objects_Assembly_References.csproj", "{B2978704-AEFD-4EF3-BAA6-9E1E2A809B25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.05_Objects_Assembly_References", "0.04_Objects_Assembly_References\0.05_Objects_Assembly_References.csproj", "{B2978704-AEFD-4EF3-BAA6-9E1E2A809B25}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes", "0.02_BasicTypes\0.02_BasicTypes.csproj", "{2932DDC0-089C-4B63-9450-7581CF5E299C}"
 EndProject
@@ -61,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.02_BasicTypes_Challenge",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_Strings", "0.03_Strings\0.03_Strings.csproj", "{946B9EF4-B98B-4251-8943-66B4BA91E63E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ForLoop", "0.08_ForLoop\0.08_ForLoop.csproj", "{92EDDD5A-2684-45F1-BEBE-599C99EA90F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_ForLoop", "0.08_ForLoop\0.07_ForLoop.csproj", "{92EDDD5A-2684-45F1-BEBE-599C99EA90F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.50_CSS_Architecture", "0.50_CSS_Architecture\0.50_CSS_Architecture.csproj", "{AA6A10E4-097F-458E-B5D3-8B476A536987}"
 EndProject

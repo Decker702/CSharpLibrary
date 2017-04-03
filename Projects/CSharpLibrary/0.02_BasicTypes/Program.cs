@@ -10,7 +10,7 @@ namespace _0._02_BasicTypes
     {
         static void Main(string[] args)
         {
-           
+       /*    
             int i = 0;        // implicit conversion, too, a.k.a. Int32
             short sh = 32767; // 2^16, or 32768, or +/- 0-32767, a.k.a. Int16
             byte by = 255;    // 2^8, or 256, or +/- 0-255, a.k.a. Byte
@@ -45,7 +45,7 @@ namespace _0._02_BasicTypes
             //Use this to get console to pop up and stay
             Console.ReadLine();
             
-
+       */
         }
     }
 }

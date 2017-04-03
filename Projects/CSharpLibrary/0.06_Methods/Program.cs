@@ -38,10 +38,6 @@ namespace _0._06_Methods
 
             Console.ReadLine();
 
-      
-
-            
-
 
         }
     }
