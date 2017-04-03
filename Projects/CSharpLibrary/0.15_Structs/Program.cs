@@ -71,7 +71,7 @@ namespace _0._15_Structs
 
             public string GetAddress()
             {
-                return $"Address: {Address}\nCity: {City}\Console.WriteLine(Paul.GetAddress());nState: {State}\n{Zip}";
+                return $"Address: {Address}\nCity: {City}\nState: {State}\n{Zip}";
             }
             
         }

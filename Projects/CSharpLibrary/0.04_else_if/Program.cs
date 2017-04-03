@@ -15,7 +15,7 @@ namespace _0._04_else_if
             int difference = bankAccount - debt;
 
             int taxSeason = 40000;
-            difference =- taxSeason
+            difference = -taxSeason;
 
                 Console.WriteLine("I have {0:C} in my bank account and I am {1:C} in debt", bankAccount, debt);
             if (difference >= 7000)
@@ -28,13 +28,11 @@ namespace _0._04_else_if
             }
             else
             {
-                Console.WriteLine("Looks like I'm living with the 'rents this month.")
+                Console.WriteLine("Looks like I'm living with the 'rents this month.");
             }
+
             Console.ReadLine();
-           
-
-
-
+       
         }
     }
 }

@@ -19,7 +19,7 @@ namespace _0._04_Conditionals_Ternary
 
             //Ternary Operator
 
-            Console.WriteLine(num == 7 ? "Hey, this is the number 7" ; "This number isn't 7");
+            Console.WriteLine((num == 7) ? "Hey, this is the number 7" : "This number isn't 7");
             //Using a string of name check to see if your name is the same as your neighbors, return a message if it iS
             //return another message if it is not.
 

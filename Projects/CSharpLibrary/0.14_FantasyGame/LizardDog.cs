@@ -45,5 +45,23 @@ namespace _0._14_FantasyGame
             Attack(p, Attacks, this.Name);
         }
 
+   
+     /* From Kenn in Slack
+
+class LizardDog : Enemy
+    {
+        public LizardDog()
+        {
+            this.PowerLevel = 40;
+            this.Name = "Lizard Dog"; 
+        }
+
+        public override void Insult()
+        {
+            int r = rnd.Next(insult.Count);
+            Console.WriteLine("I am {0} you {1}", this.Name, insult[r]);
+        }
     }
+     * 
+     * 
 }

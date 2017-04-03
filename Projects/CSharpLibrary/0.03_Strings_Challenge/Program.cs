@@ -57,44 +57,36 @@ namespace _0._03_Strings_Challenge
                     Include the date in the string that is converted to a short date string.
                     */
 
-            //TODO: this is the right place, just need the right order.
-            var date = date.ToShortDateString();
-           // DateTime date = DateTime.Now;
-            //Instance.ToShortDateString()
+            //DateTime dateToDisplay = new DateTime(2016, 3, 11);
+            // Console.WriteLine("   {0}",
+            //           dateToDisplay.ToString("d"));
+            /*                   
+             Console.WriteLine("Dear Ms. Jones,\nToday is" + "
+                    Create 2 strings: Your user name in lowercase, and in uppercase,
+                    Write code that compares the two strings and prints wh{0}",
+                               dateToDisplay.ToString("d") + ". I enjoy the class and learning C#.\nWhen I complete the course, I would like to get a developer job.\nThank you,\nL. Decker");
 
-            var shortDate = date.ToString("MM-dd-yyyy");
-            Console.WriteLine(date);
-
-
-
-
-
-            Console.ReadLine();
-
-            
-
-
-
-        /*  Dear Ms. Jones,
-          Today is 3/29/2017.  I enjoy the class and learning C#.
-          When I complete the course, I would like to get a job as a developer.
-          Thank you,
-          L. Decker
+             Console.ReadLine();
           */
 
+            /* Gold Challenge: 
+                    Create 2 strings: Your username in lowercase, and in uppercare. 
+                    Print one sentence that says they are equal.
+                    Print a second sentence that says they are not equal.
+            */
+            
+            string lower = "ldecker";
+            string upper = "LDECKER";
+            bool result1 = lower.Equals(upper, StringComparison.Ordinal); 
+            bool result2 = lower.Equals(upper, StringComparison.OrdinalIgnoreCase);
 
-        /* Gold Challenge:
-                Create 2 strings: Your user name in lowercase, and in uppercase,
-                Write code that compares the two strings and prints whether or not they are equal.
-                Print one sentence that says they are equal.
-                Print a second sentence that says they are not equal.
+            Console.WriteLine("Ordinal comparison: {0} and {1} are {2}", lower, upper,
+                                result1 ? "equal." : "not equal.");
+            Console.WriteLine("OrdinalIgnoreCase comparison: {0} and {1} are {2}", lower, upper,
+                                result2 ? "equal." : "not equal.");
 
-        Dim myString As String = "Alphabetical"
-Dim secondString As String = "Order"
-Dim result As Integer
-result = String.Compare (myString, secondString)
-         */
-
-    }
+            Console.ReadLine();
+            
+        }
     }
 }

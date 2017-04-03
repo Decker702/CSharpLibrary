@@ -50,16 +50,47 @@ namespace _0._14_FantasyGame
             // player.CurrentPower = player.CurrentPower  - attackVal
 
         }
-     //   int attackVal = singleAttack.Value;
-       //     string attackName = singleAttack.Key;
+        //   int attackVal = singleAttack.Value;
+        //     string attackName = singleAttack.Key;
 
-         //   Console.WriteLine("{2} is attacking with {0} and deals {1}", attackName, attackVal, enemyName);
+//   Console.WriteLine("{2} is attacking with {0} and deals {1}", attackName, attackVal, enemyName);
 
-            //This attack method goes to Program to LizardDog.Attack(player);
-         //   Console.WriteLine("{0} power is at {1}%", player.PlayerName, player.CurrentPower);
-            // player's power decreases during attacks, need assigh & track it
-           //player.CurrentPower -= attackVal; //player.Current = player.CurrentPower -= attackVal    
+//This attack method goes to Program to LizardDog.Attack(player);
+//   Console.WriteLine("{0} power is at {1}%", player.PlayerName, player.CurrentPower);
+// player's power decreases during attacks, need assigh & track it
+//player.CurrentPower -= attackVal; //player.Current = player.CurrentPower -= attackVal    
+
+/* From Kenn in Slack protected ArrayList insult = new ArrayList { "buck-o", "wimp", "window licker", "noob", "nerd cakes", "buster" };
+protected Random rnd = new Random();
+public string Name { get; set; }
+public int PowerLevel { get; set; }
+
+//create an insult method with a few insults
+public virtual void Insult()
+{   
+    int r = rnd.Next(insult.Count);
+    */
+
+    Console.WriteLine("You're on the wrong side of the forest {0}", insult[r]);
+
+            /* From Kenn in Slack
+             * class Enemy
+    {
+        protected ArrayList insult = new ArrayList { "buck-o", "wimp", "window licker", "noob", "nerd cakes", "buster" };
+        protected Random rnd = new Random();
+        public string Name { get; set; }
+        public int PowerLevel { get; set; }
+
+        //create an insult method with a few insults
+        public virtual void Insult()
+        {   
+            int r = rnd.Next(insult.Count);
+
+            Console.WriteLine("You're on the wrong side of the forest {0}", insult[r]);
         }
     }
-    
+
+}
+}
+
 

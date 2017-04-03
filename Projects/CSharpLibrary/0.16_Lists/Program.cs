@@ -25,7 +25,7 @@ namespace _0._16_Lists
                  Console.WriteLine(names);
 
                  */
-            Console.WriteLine("Lambda expression witrh .ForEach);
+            Console.WriteLine("Lambda expression with .ForEach");
                 names.ForEach(name => Console.WriteLine(name));
             Console.ReadLine();
         }

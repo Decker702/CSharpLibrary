@@ -35,9 +35,6 @@ namespace _0._06_Methods
             Teacher.LastName = "Pascascio";
             Teacher.PrintCustomerName();
 
-               
-
-            
 
             Console.ReadLine();
 

@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace _0._05_Objects_Challenges
 {
-    class Hotel
+    public class Hotel
     {
-        RoomNumber
-   IsAvailable
-NumBeds
 
-  
-
-
+        public int RoomNumber { get; set; }
+        public bool IsAvailable { get; set; }
+        public int NumBeds { get; set; }
+       
     }
 }

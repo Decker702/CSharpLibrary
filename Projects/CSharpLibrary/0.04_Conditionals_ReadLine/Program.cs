@@ -37,7 +37,7 @@ namespace _0._04_Conditionals_ReadLine
             }
             else
             {
-                Console.WriteLine("Sorry, I didn't catch that, man.")
+                Console.WriteLine("Sorry, I didn't catch that, man.");
             }
             Console.ReadLine();
 

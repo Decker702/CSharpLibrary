@@ -40,6 +40,18 @@ namespace _0._06_Methods
             else
             {
                 Console.WriteLine("Did you see that car?");
+                
+    /******Keyword***************Applicable To***************Meaning******************************************		
+             public 			    Class, Member			No restrictions
+             protected			    Member					Access limited to the class and derived classes
+             private		        Member					Access limited to the class.
+
+             internal               Class, Member			Access limited to the current assembly		
+            protected internal 	    Member					Access limited to current assembly and derived types
+
+**********************************************************************************************************/
+
+
 
             }
         }
