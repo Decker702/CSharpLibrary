@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\bin\Debug\0.04_Conditionals_ReadLine.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.04_Conditionals_ReadLine\obj\Debug\0.04_Conditionals_ReadLine.pdb

@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\bin\Debug\0.08_ForLoop.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\bin\Debug\0.08_ForLoop.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\bin\Debug\0.08_ForLoop.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\obj\Debug\0.08_ForLoop.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\obj\Debug\0.08_ForLoop.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.08_ForLoop\obj\Debug\0.08_ForLoop.pdb

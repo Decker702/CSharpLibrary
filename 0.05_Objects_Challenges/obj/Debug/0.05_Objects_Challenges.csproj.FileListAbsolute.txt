@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\bin\Debug\0.05_Objects_Challenges.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\bin\Debug\0.05_Objects_Challenges.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\bin\Debug\0.05_Objects_Challenges.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\obj\Debug\0.05_Objects_Challenges.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\obj\Debug\0.05_Objects_Challenges.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.05_Objects_Challenges\obj\Debug\0.05_Objects_Challenges.pdb

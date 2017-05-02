@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\obj\Debug\0.91_BrainTalk.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\bin\Debug\0.91_BrainTalk.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\bin\Debug\0.91_BrainTalk.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\bin\Debug\0.91_BrainTalk.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\obj\Debug\0.91_BrainTalk.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.91_BrainTalk\obj\Debug\0.91_BrainTalk.pdb

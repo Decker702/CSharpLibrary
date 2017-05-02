@@ -1,0 +1,5 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.92_ClassChallenge\bin\Debug\netcoreapp1.1\0.92_Challenge.deps.json
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.92_ClassChallenge\bin\Debug\netcoreapp1.1\0.92_Challenge.runtimeconfig.json
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.92_ClassChallenge\bin\Debug\netcoreapp1.1\0.92_Challenge.runtimeconfig.dev.json
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.92_ClassChallenge\obj\Debug\netcoreapp1.1\0.92_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.92_ClassChallenge\obj\Debug\netcoreapp1.1\0.92_Challenge.AssemblyInfo.cs

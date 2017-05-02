@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\bin\Debug\0.06_Methods_Challenge.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.06_Methods_Challenge\obj\Debug\0.06_Methods_Challenge.pdb

@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\bin\Debug\0.15_Structs.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.15_Structs\obj\Debug\0.15_Structs.pdb

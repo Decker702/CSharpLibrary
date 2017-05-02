@@ -1,0 +1,65 @@
+﻿
+/*Lesson - CSS should cascade from general to specific.  This allows a developer
+to make changes in a logical manner.  Demonstrate how to change fonts, etc.  Then 
+students should play around with changing things and adding to it.*/
+
+/*HTML ELEMENTS*/
+
+body {
+    font-family: "Verdana";
+    background-color: lightgray;
+}
+
+div {
+    background-color: orange;
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    color: white;
+    font-size: 18px;
+}
+
+/*Target html elements within a div or section classnamed*/
+
+.main {
+    background-color: green;
+    width: 100%;
+}
+
+    .main > h1 {
+        font-family: "Arial Black";
+        text-align: left;
+    }
+
+    .main > ul {
+        list-style: square;
+    }
+
+/*Target html elements by ids*/
+
+#funThings {
+    background-color: blue;
+    width: 75%;
+    margin: auto
+}
+
+#funThingsTitle {
+    font-size: 36px;
+}
+
+#funThings > ul {
+    font-family: "Comic Sans MS";
+}
+
+#funThings > li {
+    font-weight: 700;
+}

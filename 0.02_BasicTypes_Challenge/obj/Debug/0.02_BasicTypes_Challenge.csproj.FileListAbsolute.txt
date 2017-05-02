@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\obj\Debug\0.02_BasicTypes_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\bin\Debug\0.02_BasicTypes_Challenge.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\bin\Debug\0.02_BasicTypes_Challenge.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\bin\Debug\0.02_BasicTypes_Challenge.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\obj\Debug\0.02_BasicTypes_Challenge.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.02_BasicTypes_Challenge\obj\Debug\0.02_BasicTypes_Challenge.pdb

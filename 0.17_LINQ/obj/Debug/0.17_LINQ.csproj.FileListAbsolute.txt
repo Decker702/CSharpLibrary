@@ -1,0 +1,6 @@
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.exe.config
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\bin\Debug\0.17_LINQ.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.exe
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.pdb
+C:\Users\Moncure306\documents\visual studio 2017\Projects\CSharpLibrary\0.17_LINQ\obj\Debug\0.17_LINQ.csprojResolveAssemblyReference.cache
